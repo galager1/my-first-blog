@@ -25,7 +25,7 @@ SECRET_KEY = '$*+zhd^2nw18rh%&7*!au!p^_qhy3mcfxya(87_138n@-irg$w'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['galager.pythonanywhere.com']
 
 
 # Application definition
